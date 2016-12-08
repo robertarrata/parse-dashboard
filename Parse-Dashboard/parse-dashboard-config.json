@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "http://refschedulerdashboard.azurewebsites.net:4040/parse",
+    "serverURL": "http://refschedulerdashboard.azurewebsites.net/parse",
     "appId": "GLzpT8yAkCUf6dnCaYuEjR4yA3wjPvp1769yKWNP",
     "masterKey": "X5YpvSAcm5wcee8ipjmOlU1asNngMve7XRjvKSuS",
     "appName": "Ref Scheduler",
