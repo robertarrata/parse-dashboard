@@ -6,5 +6,10 @@
     "appName": "Ref Scheduler",
     "iconName": ""
   }],
-  "iconsFolder": "icons"
+  "users": [
+    {
+      "user":"username1", // Used to log in to your Parse Dashboard
+      "pass":"password1"
+    }
+  ]
 }
