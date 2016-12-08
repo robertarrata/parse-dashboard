@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://refschedulerdashboard.azurewebsites.net/parse",
+    "serverURL": "https://refscheduler.azurewebsites.net/parse/",
     "appId": "GLzpT8yAkCUf6dnCaYuEjR4yA3wjPvp1769yKWNP",
     "masterKey": "X5YpvSAcm5wcee8ipjmOlU1asNngMve7XRjvKSuS",
     "appName": "Ref Scheduler",
@@ -8,8 +8,8 @@
   }],
   "users": [
     {
-      "user":"username1", // Used to log in to your Parse Dashboard
-      "pass":"password1"
+      "user":"robert", // Used to log in to your Parse Dashboard
+      "pass":"raptor"
     }
   ]
 }
