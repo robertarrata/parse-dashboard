@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "http://refschedulerdashboard.azurewebsites.net",
+    "appId": "GLzpT8yAkCUf6dnCaYuEjR4yA3wjPvp1769yKWNP",
+    "masterKey": "X5YpvSAcm5wcee8ipjmOlU1asNngMve7XRjvKSuS",
+    "appName": "Ref Scheduler",
     "iconName": ""
   }],
   "iconsFolder": "icons"
